@@ -10,7 +10,7 @@ and generating reports.
   
 Automated API testing for each module (User, Pet, Store) with CRUD operations.
 
-User Module:
+**User Module:**
 
 The User module handles operations related to user management.
 
@@ -22,7 +22,7 @@ PUT /user/{username} (updateUser): Updates an existing user’s details.
 
 DELETE /user/{username} (deleteUser): Deletes a user from the system.
 
-Pet Module:
+**Pet Module:**
 
 The Pet module manages pet information and operations.
 
@@ -34,7 +34,7 @@ PUT /pet (updatePet): Updates information for an existing pet.
 
 DELETE /pet/{petId} (deletePet): Removes a pet from the store.
 
-Store Module:
+**Store Module:**
 
 The Store module is responsible for order management.
 
