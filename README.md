@@ -157,6 +157,33 @@ PetStoreAutomation/
 ![PetStore ss2](PetStore%20screenshots/Petstore%20ss2.PNG)
 
 
+**Setup and Execution**
+
+**Pre-requisites**
+
+1.Install Java JDK 8+.
+
+2.Install Maven.
+
+3.Install Eclipse IDE or IntelliJ IDEA.
+
+Clone the repository using:
+
+git clone https://github.com/LavanyaNithya/AdactinApplication-Selenium_Cucumber-Automation.git
+
+Steps to Execute:
+
+1.Open the project in your IDE.
+
+2.Download dependencies by running
+
+mvn clean install
+
+3.Execute the tests using:
+
+mvn test
+
+
 
 
 
