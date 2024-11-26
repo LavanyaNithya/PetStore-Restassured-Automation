@@ -146,6 +146,16 @@ PetStoreAutomation/
 
 └── testng.xml                      # TestNG suite configuration
 
+**Report Screenshots**
+
+**Report1**
+
+![PetStore ss1](PetStore%20screenshots/PetStore%20ss1.PNG)
+
+**Report2**
+
+![PetStore ss2](PetStore%20screenshots/PetStore%20ss2.PNG)
+
 
 
 
