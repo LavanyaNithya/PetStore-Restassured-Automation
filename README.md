@@ -169,7 +169,7 @@ PetStoreAutomation/
 
 Clone the repository using:
 
-git clone https://github.com/LavanyaNithya/AdactinApplication-Selenium_Cucumber-Automation.git
+git clone https://github.com/LavanyaNithya/PetStore-Restassured-Automation.git
 
 Steps to Execute:
 
